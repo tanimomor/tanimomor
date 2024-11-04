@@ -12,10 +12,10 @@
  
  🔭 I’m currently working on **a restaurant-focused point-of-sale(POS) system**
  
- 🌱 I’m currently learning **CI/CD(Jenkins), React.js, Next.js, Nginx, Celery, Docker, AWS**
+ 🌱 I’m currently learning **FastAPI, Vue.js, CI/CD(Jenkins), Nginx, Docker, Kubernetes**
 
 
-💬 Ask me about **Web development, Django, ML... or anything [here](https://github.com/tanimomor/tanimomor/issues)**
+💬 Ask me about **Web development, ML... or anything [here](https://github.com/tanimomor/tanimomor/issues)**
 
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
