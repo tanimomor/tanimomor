@@ -4,16 +4,10 @@
 </p>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tanimomor.tanimomor" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F75C7E&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omor+Al+Tanim!;" />
-</h1>
 
-<p align="center">
-  <a href=""><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omor+Al+Tanim!;" />
+</h1>
 
 <h3 align="center">A passionate software developer from Bangladesh 🇧🇩</h3>
 
