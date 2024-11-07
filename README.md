@@ -100,15 +100,6 @@
 
 
 
-<!-- My Contributions -->
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tanimomor/tanimomor/output/github-contribution-grid-snake.svg" />
-
-  <br/>
-</div>
-
-
-
 
 
 <!-- Visitor Counter -->
