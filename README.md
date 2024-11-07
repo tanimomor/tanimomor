@@ -81,55 +81,15 @@
 
 
 ### 🌐 Development Concepts and Skills
+
 <p> <a href="#"><img alt="RESTful API" src="https://img.shields.io/badge/RESTful%20API-0083CB?logo=api&logoColor=white"></a> <a href="#"><img alt="Compiler" src="https://img.shields.io/badge/Compiler-%234285F4?logo=cplusplus&logoColor=white"></a> <a href="#"><img alt="Operating System" src="https://img.shields.io/badge/Operating%20System-0078D7?logo=windows&logoColor=white"></a> <a href="#"><img alt="Artificial Intelligence" src="https://img.shields.io/badge/AI-%23FF6F00.svg?logo=tensorflow&logoColor=white"></a> <a href="#"><img alt="Neural Networks" src="https://img.shields.io/badge/Neural%20Networks-5C2D91?logo=pytorch&logoColor=white"></a> <a href="#"><img alt="Database" src="https://img.shields.io/badge/Database-013243?logo=database&logoColor=white"></a> <a href="#"><img alt="Networking" src="https://img.shields.io/badge/Networking-4169E1?logo=ethernet&logoColor=white"></a> </p>
-
-<br/>
-<hr/>
-<br/>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanimomor&theme=github-dark-dimmed&custom_title=Tanim's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<br/>
-<hr/>
-<br/>
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
-</p>
-
-<br/>
-<hr/>
-
-<br/>
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
-</p>
-
-
-
-<br/>
-<hr/>
-
-<br/>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tanimomor/tanimomor/output/github-contribution-grid-snake.svg" />
-  
-  <br/>
-    <br/>
-</div>
-
-
-
-<hr/>
-
-
 
 
 <!-- Github Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+<br/>
 <br>
 <p align="center">
 <table align="center">
@@ -144,10 +104,31 @@
 </td>
 </tr>
 </table>
-<br>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanimomor&theme=github-dark-dimmed&custom_title=Tanim's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
+</p>
 
 
-<hr/>
+
+
+
+<!-- My Contributions -->
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tanimomor/tanimomor/output/github-contribution-grid-snake.svg" />
+  
+  <br/>
+    <br/>
+</div>
+
+
+
+
+
 <!-- Visitor Counter -->
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
@@ -155,5 +136,7 @@
     <img alt="visitors counter" src="https://profile-counter.glitch.me/tanimomor/count.svg">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
-<br>
-<br>
+
+
+
+
