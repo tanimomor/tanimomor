@@ -10,7 +10,7 @@
 
 🔭 I’m currently working on **a employee management system using Vue.js, FastAPI & PostgreSQL**
 
-🌱 I’m currently learning **CI/CD(Jenkins), Nginx, Docker, Kubernetes**
+🌱 I’m currently gaining expertise in **CI/CD(Jenkins), Nginx, Docker, Kubernetes**
 
 💬 Ask me about **Web development, ML... or anything [here](https://github.com/tanimomor/tanimomor/issues)**
 
