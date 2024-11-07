@@ -21,7 +21,7 @@
 <!-- Social Links -->
 
 <div align="center"> 
-  <a href="https://tanimomor.me">
+  <a href="https://tanim.me">
     <img alt="Website" title="My website" src="https://img.shields.io/badge/website-236ad3?style=for-the-badge&logo=firefox&logoColor=white"/></a> 
   <a href="#">
  <a href="mailto:tanim.pro@gmail.com">
