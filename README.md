@@ -78,11 +78,10 @@ I am a **Fullstack Developer** from Bangladesh 🇧🇩, currently working on bu
 
 
 
-<img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/XwmLgqDr19YAAAAC/colin-ritman-bandersnatch.gif"/>
 
-<br/>
+
 ##### 🗄️ Databases and cloud hosting
-
+<img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/XwmLgqDr19YAAAAC/colin-ritman-bandersnatch.gif"/>
 <p>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="Nginx" src ="https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white"></a>
