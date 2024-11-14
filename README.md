@@ -4,7 +4,7 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+<img align="right" width=200px alt="Unicorn" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif"/>
 
 I am a **Fullstack Developer** from Bangladesh 🇧🇩, currently working on building scalable web apps. I am passionate about **Vue.js**, **FastAPI**, and **AI**, and always excited to explore new technologies. My goal is to develop creative, efficient, and impactful applications.
 
