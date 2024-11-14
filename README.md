@@ -1,24 +1,35 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omor+Al+Tanim!;" />
-</h1>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h1><b>Hi there, I'm </b><a href="https://github.com/tanimomor">Omor Al Tanim</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<br>
 
-<h3 align="center">A passionate fullstack developer from Bangladesh🇧🇩 who loves to build scalable webapps</h3>
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<br/>
+<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
+I am a **Fullstack Developer** from Bangladesh 🇧🇩, currently working on building scalable web apps. I am passionate about **Vue.js**, **FastAPI**, and **AI**, and always excited to explore new technologies. My goal is to develop creative, efficient, and impactful applications.
+
+- 📚 I’m currently learning:
+    - *CI/CD (Jenkins)*
+    - *Nginx*
+    - *Docker*
+    - *Kubernetes*
+
+- 🚀 I’m eager to collaborate on new projects and help others grow.
+- ✔ Feel free to ask me anything about **Web Development**, **Machine Learning**, or anything else! I'm always open to discussions.
+- Outside of tech, I enjoy playing 🎮 video games, 🎵 listening to music, and socializing with friends.
+- 📫 Reach out to me at: <a href="mailto:tanim.pro@gmail.com">tanim.pro@gmail.com</a>
+
+
+
+<!-- Profile Trophies -->
 <div align="center">
-
-🔭 I’m currently working on **a employee management system using Vue.js, FastAPI & PostgreSQL**
-
-🌱 I’m currently gaining expertise in **CI/CD(Jenkins), Nginx, Docker, Kubernetes**
-
-💬 Ask me about **Web development, ML... or anything [here](https://github.com/tanimomor/tanimomor/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-<br/>
-</div>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=tanimomor&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+    </a>
+</div>     
 
 <!-- Social Links -->
+
 
 <div align="center"> 
   <a href="https://tanim.me">
