@@ -16,7 +16,7 @@ I am a **Fullstack Developer** from Bangladesh 🇧🇩, currently working on bu
 
 - 🚀 I’m eager to collaborate on new projects and help others grow.
 - ✔ Feel free to ask me anything about **Web Development**, **Machine Learning**, or anything else! I'm always open to discussions.
-- Outside of tech, I enjoy playing ♟️ Chess, 🎙️ listening to standups, and socializing with friends.
+- Outside of tech, I enjoy playing ♟️ Chess, listening to 🎙️ standups, and socializing with friends.
 - 📫 Reach out to me at: <a href="mailto:tanim.pro@gmail.com">tanim.pro@gmail.com</a>
 
 
