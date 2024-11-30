@@ -9,6 +9,7 @@
 I am a **Fullstack Developer** from Bangladesh 🇧🇩, currently working on building scalable web apps. I am passionate about **Vue.js**, **FastAPI**, and **AI**, and always excited to explore new technologies. My goal is to develop creative, efficient, and impactful applications.
 
 - 📚 I’m currently learning:
+    - *ERPNext*
     - *CI/CD (Jenkins)*
     - *Nginx*
     - *Docker*
