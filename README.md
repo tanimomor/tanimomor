@@ -6,7 +6,7 @@
 
 <img align="right" width=200px alt="Unicorn" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif"/>
 
-I am a **Fullstack Developer** from Bangladesh 🇧🇩, currently working on building scalable web apps. I am passionate about **AI Agents**, **N8N**, **Frappe**, and always excited to explore new technologies. My goal is to develop creative, efficient, and impactful applications.
+I am a **Fullstack Developer** from Bangladesh 🇧🇩, currently working on building scalable web apps. I am passionate about **AI Agents**, **N8N**, **Frappe** and always excited to explore new technologies. My goal is to develop creative, efficient, and impactful applications.
 
 - 📚 I’m currently learning:
     - *N8N*
