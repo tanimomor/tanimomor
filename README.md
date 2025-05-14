@@ -9,9 +9,8 @@
 I am a **Fullstack Developer** from Bangladesh 🇧🇩, currently working on building scalable web apps. I am passionate about **AI Agents**, **N8N**, **Frappe** and always excited to explore new technologies. My goal is to develop creative, efficient, and impactful applications.
 
 - 📚 I’m currently learning:
-    - *N8N*
-    - *CI/CD (Jenkins)*
-    - *Nginx*
+    - *Agentic AI with Semantic Kernel & N8N*
+    - *ASP.Net*
     - *Docker*
     - *Kubernetes*
 
