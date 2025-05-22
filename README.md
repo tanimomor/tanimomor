@@ -84,6 +84,7 @@ I am a **Fullstack Developer** from Bangladesh 🇧🇩, currently working on bu
 ##### 🗄️ Databases and cloud hosting
 <p>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="Nginx" src ="https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"></a>
