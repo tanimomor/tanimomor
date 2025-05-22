@@ -67,10 +67,12 @@ I am a **Fullstack Developer** from Bangladesh 🇧🇩, currently working on bu
 ##### 🧰 Framework and libraries
 
 <p> 
+    [![.NET]()](#)
+    <a href="#"><img alt=".Net" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"></a> 
     <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"></a> 
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white"></a> 
-    <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff"></a> 
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a> 
+    <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff"></a> 
     <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/NextJS-black?logo=next.js&logoColor=white"></a> 
     <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindCSS-%2338B2AC.svg?&logo=tailwind-css&logoColor=white"></a> 
     <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white"></a> 
