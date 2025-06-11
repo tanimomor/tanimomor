@@ -10,7 +10,7 @@ I am a **Fullstack Developer** from Bangladesh 🇧🇩, currently working on bu
 
 - 📚 I’m currently learning:
     - *Semantic Kernel & N8N*
-    - *ASP.Net*
+    - *.Net Core*
     - ABP Framework
     - *Docker*
     - *Kubernetes*
