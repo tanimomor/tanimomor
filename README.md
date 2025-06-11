@@ -68,8 +68,8 @@ I am a **Fullstack Developer** from Bangladesh 🇧🇩, currently working on bu
 ##### 🧰 Framework and libraries
 
 <p> 
-    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
     <a href="#"><img alt=".Net" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"></a>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
     <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"></a> 
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white"></a> 
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a> 
