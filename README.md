@@ -8,10 +8,10 @@
 
 I am a **Fullstack Developer** from Bangladesh 🇧🇩, currently working on building scalable web apps and AI agents. I am passionate about **AI Agents**, **.Net Core**, **Semantic Kernel** and always excited to explore new technologies. My goal is to develop creative, efficient, and impactful applications.
 
-- 📚 I’m currently learning:
+- 📚 I’m currently working with:
     - *Semantic Kernel & N8N*
+    - FastAPI
     - *.NET Core*
-    - ABP Framework
     - *Docker*
     - *Kubernetes*
 
