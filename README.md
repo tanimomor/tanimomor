@@ -10,7 +10,7 @@ I am a **Fullstack Developer** from Bangladesh 🇧🇩, currently working on bu
 
 - 📚 I’m currently working with:
     - *Semantic Kernel & N8N*
-    - FastAPI
+    - *FastAPI*
     - *.NET Core*
     - *Docker*
     - *Kubernetes*
