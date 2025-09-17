@@ -6,7 +6,7 @@
 
 <img align="right" width=200px alt="Unicorn" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif"/>
 
-I am a **Fullstack Developer** from Bangladesh 🇧🇩, currently working on building scalable web apps and AI agents. I am passionate about **AI Agents**, **.Net Core**, **Semantic Kernel** and always excited to explore new technologies. My goal is to develop creative, efficient, and impactful applications.
+I am a **Fullstack Developer** from Bangladesh 🇧🇩, currently working on building scalable web apps and AI agents. I am passionate about **AI Agents**, **Next.js**, **Frappe/ERPNext**, **.Net Core**, **Semantic Kernel** and always excited to explore new technologies. My goal is to develop creative, efficient, and impactful applications.
 
 - 📚 I’m currently working with:
     - *Semantic Kernel & N8N*
