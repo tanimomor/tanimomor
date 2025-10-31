@@ -2,17 +2,17 @@
 <h1><b>Hi there, I'm </b><a href="https://github.com/tanimomor">Omor Al Tanim</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About me***
 
 <img align="right" width=200px alt="Unicorn" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif"/>
 
-I am a **Fullstack Developer with AI** from Bangladesh 🇧🇩, currently working on building scalable web apps and AI agents. I am passionate about **AI Agents**, **Next.js**, **Frappe/ERPNext**, **.Net Core**, **Semantic Kernel** and always excited to explore new technologies. My goal is to develop creative, efficient, and impactful applications.
+I am a **Fullstack Developer with AI** from Bangladesh 🇧🇩, currently working on building scalable web apps and AI agents. I am passionate about **AI Agents**, **Next.js**, **Frappe/ERPNext**, **.Net Core**, **Semantic Kernel**, and always excited to explore new technologies. My goal is to develop creative, efficient, and impactful applications.
 
 - 📚 I’m currently working with:
     - *Langchain, Semantic Kernel & N8N*
     - *FastAPI, Django, .Net Core, Strapi, Next.js*
     - *RAG Multi-Agents Orchestration*
-
+- 💡 I’m currently working on my personal project: [**AgenticCMS**](https://github.com/tanimomor/AgenticCMS) — an **AI-powered content management system** designed for agentic workflows and automation.
 - 🚀 I’m eager to collaborate on new projects and help others grow.
 - ✔ Feel free to ask me anything about **Web Development**, **Machine Learning**, or anything else! I'm always open to discussions.
 - Outside of tech, I enjoy playing ♟️ Chess, listening to 🎙️ standups, and socializing with friends.
