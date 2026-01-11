@@ -122,9 +122,9 @@ I am a **Fullstack Developer with AI** from Bangladesh 🇧🇩, currently worki
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanimomor&theme=github-dark-dimmed&custom_title=Tanim's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
-</p>
+</p> -->
 
 
 
