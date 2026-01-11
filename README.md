@@ -21,11 +21,11 @@ I am a **Fullstack Developer with AI** from Bangladesh 🇧🇩, currently worki
 
 
 <!-- Profile Trophies -->
-<div align="center">
+<!-- <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=tanimomor&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
     </a>
-</div>     
+</div>      -->
 
 <!-- Social Links -->
 
@@ -131,12 +131,12 @@ I am a **Fullstack Developer with AI** from Bangladesh 🇧🇩, currently worki
 
 
 <!-- Visitor Counter -->
-<br>
+<!-- <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/tanimomor/count.svg">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-</div>
+</div> -->
 
 
 
