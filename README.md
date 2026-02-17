@@ -12,7 +12,7 @@ I am a **Fullstack Developer with AI** from Bangladesh 🇧🇩, currently worki
     - *Langchain, Semantic Kernel & N8N*
     - *Frappe/ERPNext, FastAPI, Django, .Net Core, Strapi, Next.js*
     - *RAG Multi-Agents Orchestration*
-- 💡 I’m currently working on my personal project: [**AgenticCMS**](https://github.com/tanimomor/AgenticCMS) — an **AI-powered content management system** designed for agentic workflows and automation.
+- 💡 I’m currently working on my personal project: [**Outclass**](https://github.com/tanimomor/Outclass) — a **Low code framework on top of ASP.Net** designed for agentic workflows and automation.
 - 🚀 I’m eager to collaborate on new projects and help others grow.
 - ✔ Feel free to ask me anything about **ERP**, **Machine Learning**, or anything else! I'm always open to discussions.
 - Outside of tech, I enjoy playing ♟️ Chess, listening to 🎙️ standups, and socializing with friends.
