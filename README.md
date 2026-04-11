@@ -6,13 +6,13 @@
 
 <img align="right" width=200px alt="Unicorn" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif"/>
 
-I am a **Fullstack Developer with AI** from Bangladesh 🇧🇩, currently working on building scalable web apps and AI agents. I am passionate about **Frappe/ERPNext**, **AI Agents**, **React**, **Next.js**,  **FastAPI**, and always excited to explore new technologies. My goal is to develop creative, efficient, and impactful applications.
+I am a **Enterprise Application Developer** and **AI Engineer** from Bangladesh 🇧🇩, currently working on building scalable web apps and AI agents. I am passionate about **Frappe/ERPNext**, **AI Agents**, **React**, **Next.js**,  **FastAPI**, and always excited to explore new technologies. My goal is to develop creative, efficient, and impactful applications.
 
 - 📚 I’m currently working with:
-    - *Langchain, Semantic Kernel & N8N*
     - *Frappe/ERPNext, FastAPI, Django, .Net Core, Strapi, Next.js*
-    - *RAG Multi-Agents Orchestration*
-- 💡 I’m currently working on my personal project: [**Outclass**](https://github.com/tanimomor/Outclass) — a **Low code framework on top of ASP.Net** designed for agentic workflows and automation.
+    - *LangChain, LangGraph, Semantic Kernel & N8N*
+    - *RAG Multi-Agents Orchestration & MCP*
+- 💡 I’m currently working on my personal project: [**Mocommerce**](https://www.mocommerce.biz) — a **SaaS for ecommerce and startups** designed for agentic workflows and automation.
 - 🚀 I’m eager to collaborate on new projects and help others grow.
 - ✔ Feel free to ask me anything about **ERP**, **Machine Learning**, or anything else! I'm always open to discussions.
 - Outside of tech, I enjoy playing ♟️ Chess, listening to 🎙️ standups, and socializing with friends.
